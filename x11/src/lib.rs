@@ -32,7 +32,6 @@ pub mod xrandr;
 pub mod xrecord;
 pub mod xrender;
 pub mod xss;
-pub mod shape;
 pub mod xt;
 pub mod xtest;
 pub mod xlib_xcb;
