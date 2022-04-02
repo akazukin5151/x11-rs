@@ -13,6 +13,7 @@ fn main() {
 
     let deps = [
         ("gl", "1", "glx"),
+        ("xext", "1", "shape"),
         ("x11", "1.4.99.1", "xlib"),
         ("x11-xcb", "1.6", "xlib_xcb"),
         ("xcursor", "1.1", "xcursor"),
